@@ -1,1 +1,0 @@
-/usr/bin/cc     CMakeFiles/iothub_client_sample_mqtt.dir/iothub_client_sample_mqtt.c.o  -o iothub_client_sample_mqtt -rdynamic ../../libiothub_client_mqtt_transport.a ../../libiothub_client.a ../../../azure-umqtt-c/libumqtt.a ../../../azure-c-shared-utility/libaziotsharedutil.a -lcurl -lssl -lcrypto -lpthread 

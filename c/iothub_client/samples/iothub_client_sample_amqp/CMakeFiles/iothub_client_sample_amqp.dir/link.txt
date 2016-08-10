@@ -1,1 +1,0 @@
-/usr/bin/cc     CMakeFiles/iothub_client_sample_amqp.dir/iothub_client_sample_amqp.c.o  -o iothub_client_sample_amqp -rdynamic ../../libiothub_client.a ../../libiothub_client_amqp_transport.a ../../../azure-c-shared-utility/libaziotsharedutil.a ../../../azure-uamqp-c/libuamqp.a ../../../azure-c-shared-utility/libaziotsharedutil.a -lssl -lcrypto -lcurl -lssl -lcrypto -lpthread 

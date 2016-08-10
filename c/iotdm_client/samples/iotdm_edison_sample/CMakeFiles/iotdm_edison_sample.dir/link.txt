@@ -1,1 +1,0 @@
-/usr/bin/cc  -Wno-implicit-function-declaration    CMakeFiles/iotdm_edison_sample.dir/iotdm_edison_sample.c.o CMakeFiles/iotdm_edison_sample.dir/edison.c.o  -o iotdm_edison_sample -rdynamic ../../libiotdm_client.a ../../../azure-c-shared-utility/libaziotsharedutil.a -lcurl -lssl -lcrypto -lpthread 
