@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/iothub_registrymanager_sample.dir/iothub_registrymanager_sample.c.o CMakeFiles/iothub_registrymanager_sample.dir/linux/main.c.o  -o iothub_registrymanager_sample -rdynamic ../../libiothub_service_client.a ../../../../azure-c-shared-utility/libaziotsharedutil.a ../../../../azure-uamqp-c/libuamqp.a -lcurl -lssl -lcrypto -lpthread 

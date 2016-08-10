@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wno-implicit-function-declaration    CMakeFiles/iotdm_simple_sample.dir/iotdm_simple_sample.c.o  -o iotdm_simple_sample -rdynamic ../../libiotdm_client.a ../../../azure-c-shared-utility/libaziotsharedutil.a -lcurl -lssl -lcrypto -lpthread 
